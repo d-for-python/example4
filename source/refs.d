@@ -11,9 +11,9 @@ void main() {
 
   auto a = 1;
   setToTwoErroneous(a);
-  writeln("a didn't change value: ", a);
+  writeln("a didn't change value: ", a); // prints 1
 
   auto b = 1;
   setToTwo(b);
-  writeln("b did change value: ", b);
+  writeln("b did change value: ", b); // prints 2
 }
