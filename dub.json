@@ -1,0 +1,10 @@
+{
+  "authors" : [
+    "Your name here"
+  ],
+  "copyright" : "Copyright © 2020, Your Name",
+  "description" : "An example of my D code",
+  "license" : "GPLv3 or later",
+  "name" : "example4",
+  "targetType": "executable"
+}
